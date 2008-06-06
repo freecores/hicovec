@@ -212,7 +212,7 @@ class Debugger(object):
             print "An error occured while trying to open the serial port"
             sys.exit(1)
         
-        print "\nWelcome to the CLVP Debugger !!!\n\nEnter 'help' for a list of commands"
+        print "\nWelcome to the HiCoVec Debugger !!!\n\nEnter 'help' for a list of commands"
         print
          
         self.echo(True)

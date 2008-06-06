@@ -1,5 +1,5 @@
 ------------------------------------------------------------------
--- PROJECT:     clvp (configurable lightweight vector processor)
+-- PROJECT:      HiCoVec (highly configurable vector processor)
 --
 -- ENTITY:      demultiplexer1x4
 --
