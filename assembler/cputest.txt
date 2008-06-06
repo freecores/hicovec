@@ -11,7 +11,7 @@
 ; ************************************************************************
 ; * Author:     Harald Manske, haraldmanske@gmx.de                       *
 ; * Version:    1.0                                                      *
-; * Plattform:  CLVP (Configurable Lightweight Vector Processor)         *
+; * Plattform:  HiCoVec (highly configurable vector processor)           *
 ; ************************************************************************
      
 ; configuration of the program
