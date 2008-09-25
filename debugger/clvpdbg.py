@@ -184,7 +184,7 @@ class Debugger(object):
             symbols = {}
             
             for s in  file.readlines():
-                x=s.replace("\n","")
+                x=s.replace("\n","").replace("\r","")
                 symbols[x.split(":")[1].upper()] = string.atoi(x.split(":")[0])
             
             return symbols
